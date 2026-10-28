@@ -1,6 +1,6 @@
 # North High
 
-**North High** is a game project by **PrimeGravity**.
+**North High** is a game project by **Horizon9369**.
 
 ## Download
 
@@ -10,9 +10,9 @@ The uploaded build is a 64-bit Windows GUI executable. The game version, system 
 
 ## Copyright and usage restrictions
 
-**Copyright © 2026 PrimeGravity. All rights reserved.**
+**Copyright © 2026 Horizon9369. All rights reserved.**
 
-This is proprietary, copyrighted software. Making this repository public is for viewing and access to the posted project files; it does not grant a license or permission to use them. Unless PrimeGravity gives prior written permission, you may not copy, modify, adapt, translate, create derivative works from, decompile or reverse engineer, distribute, publish, sublicense, commercially exploit, sell, or otherwise use any part of North High or its associated files. You may not claim ownership of the game or its materials.
+This is proprietary, copyrighted software. Making this repository public is for viewing and access to the posted project files; it does not grant a license or permission to use them. Unless Horizon9369 gives prior written permission, you may not copy, modify, adapt, translate, create derivative works from, decompile or reverse engineer, distribute, publish, sublicense, commercially exploit, sell, or otherwise use any part of North High or its associated files. You may not claim ownership of the game or its materials.
 
 See [`LICENSE`](LICENSE) for the full notice. No open-source license is granted.
 
